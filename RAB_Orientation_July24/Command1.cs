@@ -14,6 +14,8 @@
 			// Your code goes here
 			TaskDialog.Show("My first dialog", "This is Command 1. I addded some new text");
 
+			// this is a comment I added so I can see it in Github
+
 			return Result.Succeeded;
 		}
 		internal static PushButtonData GetButtonData()
